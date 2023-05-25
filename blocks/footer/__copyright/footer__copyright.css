@@ -5,3 +5,9 @@
     font-weight: 400;
     line-height: 1.1;
 }
+
+@media screen and (max-width: 746px) {
+    .copyright {
+        margin-top: 48px;
+    }
+}

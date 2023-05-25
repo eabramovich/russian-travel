@@ -7,3 +7,11 @@
     width: 560px;
     margin: 0;
 }
+
+
+@media screen and (max-width: 745px) {
+    .cover__title {
+        width: 255px;
+        font-size: 32px;
+    }
+}

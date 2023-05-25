@@ -4,3 +4,16 @@
     font-weight: 400;
     line-height: 1.6;
 }
+
+@media screen and (max-width: 980px) {
+    .places__text {
+         font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .places__text {
+        width: calc(100% - 16px*2);
+        margin: auto;
+    }
+}
