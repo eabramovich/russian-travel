@@ -1,4 +1,4 @@
-.copyright {
+.footer__copyright {
     margin: 0;
     color: #FFF;
     font-size: 14px;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 746px) {
-    .copyright {
+    .footer__copyright {
         margin-top: 48px;
     }
 }
